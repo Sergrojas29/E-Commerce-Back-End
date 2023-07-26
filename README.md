@@ -33,6 +33,8 @@ Because this application won’t be deployed, you’ll also need to provide a li
 ## Installation
 
 
+https://github.com/Sergrojas29/E-Commerce-Back-End/assets/128770839/19f2f7a0-8fff-489b-9432-a9d2a8d525e6
+
 
 
 ## Features
@@ -45,6 +47,18 @@ Add, delete or update specific elements for each
 
    
 ## Demo
+
+
+
+https://github.com/Sergrojas29/E-Commerce-Back-End/assets/128770839/0870cd1e-2798-41da-8a9a-c858a44c9204
+
+
+
+https://github.com/Sergrojas29/E-Commerce-Back-End/assets/128770839/46d73d49-d678-415e-8d24-284fb5acdb94
+
+
+
+https://github.com/Sergrojas29/E-Commerce-Back-End/assets/128770839/3ec5d16d-4b41-4a9b-8afb-d5033b460099
 
 
 
