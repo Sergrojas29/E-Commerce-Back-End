@@ -1,4 +1,74 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# E-Commerce Back End
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+
+
+
+#Table of Contents
+
+1. [Authors](#authors)
+
+2. [Usage/Examples](#usageexamples)
+    
+3. [Installation](#installation)
+    
+4. [Features](#features)
+    
+5. [API Reference](#api-reference)
+    
+6. [Demo](#demo)
+    
+7. [Contributing](#contributing)
+    
+8. [Tests](#tests)
+
+
+## Authors
+    - [@Sergrojas29](https://www.github.com/Sergrojas29)
+    
+
+## Installation
+
+Locally run through API requests.
+
+
+## Features
+
+Search through Products, Categories and tag.
+
+See there relation to each other
+
+Add, delete or update specific elements for each
+
+   
+## Demo
+
+
+
+    
+## Contributing
+
+Source Code:
+https://github.com/coding-boot-camp/fantastic-umbrella
+
+
+## Questions
+
+Contact me : 
+Github: Sergrojas29
+Email: Sergrojas29@gmail.com
+    
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
 
 ## Your Task
 
